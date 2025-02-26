@@ -5,12 +5,12 @@
 텍스트 분석을 통해 **단어 빈도 분석 & 감성 분석**을 수행하는 프로젝트입니다.
 
 ## 📂 프로젝트 구조  
-📂 naver-news-analysis
-┣ 📜 text_analysis.py → 네이버 뉴스 데이터 분석 코드
-┣ 📊 wordcloud.png → 워드클라우드 시각화 이미지
-┣ 📊 word_frequency.png → 단어 빈도 막대그래프
-┣ 📊 sentiment_analysis.png → 감성 분석 결과 파이차트
-┗ 📜 README.md → 프로젝트 설명 파일
+📂 naver-news-analysis   
+┣ 📜 text_analysis.py → 네이버 뉴스 데이터 분석 코드  
+┣ 📊 wordcloud.png → 워드클라우드 시각화 이미지  
+┣ 📊 word_frequency.png → 단어 빈도 막대그래프  
+┣ 📊 sentiment_analysis.png → 감성 분석 결과 파이차트  
+┗ 📜 README.md → 프로젝트 설명 파일  
 
 
 ## 🛠 사용된 라이브러리  
